@@ -9,11 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/FriendDesign/Project-Structure-Sample.git"
+    "url": "git+https://github.com/stieuquy/ToDoAPI.git"
   },
   "author": "Vu Hoang",
   "license": "ISC",
-  "homepage": "https://gitlab.com/FriendDesign/Project-Structure-Sample#README",
   "devDependencies": {
     "chai": "^3.5.0",
     "chai-http": "^3.0.0",
