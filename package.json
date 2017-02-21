@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stieuquy/ToDoAPI.git"
+    "url": "git+https://github.com/stieuquy/todo-backend.git"
   },
   "author": "Vu Hoang",
   "license": "ISC",
