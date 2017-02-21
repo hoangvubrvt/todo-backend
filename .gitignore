@@ -5,7 +5,6 @@
 /logs
 
 # Ignore file
-/.env
 /.eslintrc.json
 /jsconfig.json
 /.vscode
