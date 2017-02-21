@@ -1,0 +1,12 @@
+# Ignore lib folder
+/node_modules
+
+# Ignore logs folder
+/logs
+
+# Ignore file
+/.env
+/.eslintrc.json
+/jsconfig.json
+/.vscode
+/coverage
